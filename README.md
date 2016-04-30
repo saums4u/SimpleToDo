@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/saums4u/SimpleToDo/blob/master/android_prework_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
